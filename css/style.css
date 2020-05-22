@@ -5,7 +5,7 @@
     font-family: arial, 'Roboto', 'Jost', sans-serif;
 }
 
-header {
+nav {
     padding-top: 15px;
     display: flex;
     justify-content: flex-end;
